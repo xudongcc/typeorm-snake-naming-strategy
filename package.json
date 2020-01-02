@@ -1,0 +1,21 @@
+{
+  "name": "typeorm-snake-naming-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "prepublish": "npm run build"
+  },
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "typeorm": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.2",
+    "typeorm": "^0.2.22",
+    "typescript": "^3.7.4"
+  }
+}
