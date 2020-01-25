@@ -1,6 +1,6 @@
 {
   "name": "typeorm-snake-naming-strategy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Snake naming strategy for TypeORM.",
   "keywords": [
     "typeorm",
@@ -13,11 +13,11 @@
     "email": "me@xudong.dev",
     "url": "https://www.xudong.dev/"
   },
-  "bugs": "https://github.com/xudong-dev/typeorm-snake-naming-strategy/issues",
-  "homepage": "https://github.com/xudong-dev/typeorm-snake-naming-strategy#readme",
+  "bugs": "https://github.com/xudongdev/typeorm-snake-naming-strategy/issues",
+  "homepage": "https://github.com/xudongdev/typeorm-snake-naming-strategy#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xudong-dev/typeorm-snake-naming-strategy.git"
+    "url": "https://github.com/xudongdev/typeorm-snake-naming-strategy.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
