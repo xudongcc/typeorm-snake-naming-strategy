@@ -1,6 +1,6 @@
 {
   "name": "typeorm-snake-naming-strategy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Snake naming strategy for TypeORM.",
   "keywords": [
     "typeorm",
